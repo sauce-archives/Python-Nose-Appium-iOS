@@ -7,7 +7,7 @@ from sauceclient import SauceClient
 
 browsers = [{
     'deviceName':        'iPhone 5',
-    'appiumVersion':     '1.4.11',
+    'appiumVersion':     '1.5.3',
     'platformName':      'iOS',
     'platformVersion':   '8.4',
     'app':               'https://s3.amazonaws.com/appium/TestApp8.4.app.zip',
@@ -15,7 +15,7 @@ browsers = [{
     'deviceOrientation': 'portrait'
 }, {
     'deviceName':        'iPhone 6',
-    'appiumVersion':     '1.4.11',
+    'appiumVersion':     '1.5.3',
     'platformName':      'iOS',
     'platformVersion':   '8.4',
     'app':               'https://s3.amazonaws.com/appium/TestApp8.4.app.zip',
